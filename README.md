@@ -68,12 +68,12 @@
   <div class="book">
     <h1>The Mystery and the Power of the Holy Spirit</h1>
     <p><em>Designed to deepen your understanding and relationship with the Holy Spirit, this edition challenges and encourages Christians to live Spirit-filled lives with purpose and passion..</em></p>
-    <p><strong>Price:</strong> KES 500</p>
+    <p><strong>Price:</strong> KES 200</p>
     <button onclick="buyBook()">Buy Now</button>
 
     <div id="paymentInstructions">
       <h3>Payment Instructions</h3>
-      <p><strong>Send KES 500 via M-Pesa to:</strong></p>
+      <p><strong>Send KES 200 via M-Pesa to:</strong></p>
       <ul>
         <li><strong>Name:</strong> Mindset Tech Connections</li>
         <li><strong>Till Number:</strong> 9537119</li>

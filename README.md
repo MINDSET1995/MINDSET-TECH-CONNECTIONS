@@ -83,7 +83,7 @@
     </div>
 
     <div id="confirmButton">
-      <a href="https://wa.me/254726172770?text=Hi%20Andrew%2C%20I%E2%80%99ve%20just%20paid%20KES%20500%20for%20the%20eBook.%20Please%20send%20it%20to%20me." target="_blank">
+      <a href="https://wa.me/254726172770?text=Hi%20Andrew%2C%20I%E2%80%99ve%20just%20paid%20KES%20200%20for%20the%20eBook.%20Please%20send%20it%20to%20me." target="_blank">
         <button>Confirm Payment</button>
       </a>
     </div>
